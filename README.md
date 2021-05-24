@@ -11,4 +11,4 @@
     - ![PyBer_fare_summary](https://user-images.githubusercontent.com/82785321/119294962-84e18880-bc0a-11eb-9323-00dab547b2ce.png)
 
 ## Summary:
-  - As shown clearly in the figure, the total fare for all three city types starts in January, and reach a peak at the end of February and the beginning of April. It is recommend for the CEO to focus more between those time frame. Although Urban has the largest number in total rides, drivers and fare, the average fare per ride and driver of rural and suburban beat urban by a quite amount, which also needs to be noticed.
+  - As shown clearly in the figure, the total fare for all three city types starts in January, and reach a peak at the end of February and the beginning of April. It is recommend for the CEO to focus more between those time frame. Although Urban has the largest number in total rides, drivers and fare, the average fare per ride and driver of Rural and Suburban beat Urban by a quite amount, which also needs to be noticed.
