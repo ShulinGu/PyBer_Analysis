@@ -7,5 +7,8 @@
     - ![a440a09c4d5e76f2725ae960820e4a3](https://user-images.githubusercontent.com/82785321/119294531-88284480-bc09-11eb-9140-2739aabc1676.png)
     
   - The figure "Total Fare by City Type" shows the treand of total fare changes of different city type from January to the end of April.
+
+    - ![PyBer_fare_summary](https://user-images.githubusercontent.com/82785321/119294962-84e18880-bc0a-11eb-9323-00dab547b2ce.png)
+
 ## Summary:
   - 
